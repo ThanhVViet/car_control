@@ -15,4 +15,17 @@
 - Module L298N
 - Module Bluetooth HC-05
 
+# Giao diện app mobile
+
+![image](https://github.com/ThanhVViet/car_control/assets/126480817/8df92550-2427-4eda-9077-3a0198ea25f5)
+
+![image](https://github.com/ThanhVViet/car_control/assets/126480817/b7331826-f881-4ce0-acdc-cb57279cc0e6)
+
+
+# Hình ảnh sản phẩm
+![z5586126205165_f0e97bce4fc33da61cf4f0ed637a22ab](https://github.com/ThanhVViet/car_control/assets/126480817/39b819cc-9c8a-4c00-a6a9-54c27287c0e0)
+
+![z5586126202086_a163568f4e371aa5c7601e8b3ca05a6e](https://github.com/ThanhVViet/car_control/assets/126480817/de947a9a-4ac7-444e-b0bf-9dc0de709174)
+
+
 
